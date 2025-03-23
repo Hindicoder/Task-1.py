@@ -1,3 +1,5 @@
+#------------------------------------------Task 1.py-------------------------------------------------
+
 # Input From user
 num1=float(input("Enter Your First Number: "))
 num2=float(input("Enter Your Second Number: "))
@@ -14,3 +16,9 @@ print("Subtraction: ",subtraction)
 print("Multiplication: ",multiplication)
 print("Division: ",division)
 
+#------------------------------------------------------------------------------Task 2.py---------------------------------
+
+First_Name=input("Enter Your First Name: ")
+Last_Name=input("Enter Your Last Name: ")
+Full_Name=First_Name+ " " + Last_Name
+print("Hello",Full_Name,"Welcome to the python programe")
